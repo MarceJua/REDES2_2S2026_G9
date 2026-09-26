@@ -1,5 +1,5 @@
 ## Topología Propuesta
-![Topología de la red](imagenes/topologia.png)
+![Topología de la red](imagenes/topo.png)
 
 ## Diseño de Arquitectura y Subnetting (VLSM y FLSM)
 
